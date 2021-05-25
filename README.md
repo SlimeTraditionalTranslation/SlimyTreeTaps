@@ -1,26 +1,28 @@
-# SlimyTreeTaps
-SlimyTreeTaps is a [Slimefun4](https://github.com/Slimefun/Slimefun4/) Addon.<br>
-You need to install Slimefun4 in order for this plugin to work.
+# 黏液橡膠龍頭
+黏液科技的附加 繁體翻譯版
 
-SlimyTreeTaps is a Slimefun4 Addon that is heavily inspired by the famous mod [IndustrialCraft 2](https://www.curseforge.com/minecraft/mc-mods/industrial-craft).
-It adds Tree Taps to Slimefun.
-By using Tree Taps on any log, you are able to get Rubber, which can then be turned into Plastic.<br>
-This adds an alternative way of obtaining Plastic to Slimefun.
+黏液橡膠龍頭是一個黏液科技的附加插件, 其靈感來自於著名的模組 [IndustrialCraft 2](https://www.curseforge.com/minecraft/mc-mods/industrial-craft).
+它添加了抽取器至黏液科技.
+在任何原木上使用抽取器, 你將會獲得橡膠, 並且可以將其轉變成塑料. <br>
+這為黏液科技添加了獲得塑料的其他方法.
 
-This addon also adds a few magical aspects to the game, such as amber, magical mirrors and other amber-related items.
+此附加也增加一些魔法方面, 例如琥珀, 魔法鏡子與其他琥珀相關的物品.
 
-## Download SlimyTreeTaps
-You can download SlimyTreeTaps right here: [Development Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/)
+此為**非官方**版本, 請勿在該作者的問題追蹤內回報!
+[原作者連結](https://github.com/TheBusyBiscuit/SlimyTreeTaps)
 
+## 下載黏液樹膠龍頭
+繁體翻譯版: [構建頁面](https://xmikux.github.io/builds/xMikux/SlimyTreeTaps/master)<br>
+官方開發版: [開發版構建頁面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/)
 <p align="center">
-  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/">
-    <img src="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/badge.svg" alt="Build Server"/>
+  <a href="https://xmikux.github.io/builds/xMikux/SlimyTreeTaps/master/">
+    <img src="https://xmikux.github.io/builds/xMikux/SlimyTreeTaps/master/badge.svg" alt="構建伺服器"/>
   </a>
 </p>
 
 ## Discord
-You can find Slimefun's community on Discord!
-Click the badge down below to join the server for suggestions/questions or other discussions about this plugin.
+您可以在Discord上找到官方SlimeFun社區!
+點擊下面的徵標來加入伺服器.
 
 <p align="center">
   <a href="https://discord.gg/slimefun">

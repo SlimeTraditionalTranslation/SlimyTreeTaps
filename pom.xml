@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.thebusybiscuit</groupId>
     <artifactId>SlimyTreeTaps</artifactId>
-    <version>UNOFFICIAL</version>
+    <version>Efina 1.0</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
