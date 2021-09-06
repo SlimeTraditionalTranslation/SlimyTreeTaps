@@ -8,20 +8,17 @@
 
 此附加也增加一些魔法方面, 例如琥珀, 魔法鏡子與其他琥珀相關的物品.
 
-此為**非官方**版本, 請勿在該作者的問題追蹤內回報!
-[原作者連結](https://github.com/TheBusyBiscuit/SlimyTreeTaps)
+> 此為**非官方**版本, 請勿在該作者問題追蹤內回報! <br>
+> [原作連結](https://github.com/TheBusyBiscuit/SlimyTreeTaps) | [非官方Discord](https://discord.gg/GF4CwjFXT9)
 
 ## 下載黏液樹膠龍頭
-繁體翻譯版: [構建頁面](https://xmikux.github.io/builds/xMikux/SlimyTreeTaps/master)<br>
-官方開發版: [開發版構建頁面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/)
-<p align="center">
-  <a href="https://xmikux.github.io/builds/xMikux/SlimyTreeTaps/master/">
-    <img src="https://xmikux.github.io/builds/xMikux/SlimyTreeTaps/master/badge.svg" alt="構建伺服器"/>
-  </a>
-</p>
+| 非官方繁體中文版 | 官方英文版 |
+| -------- | -------- |
+| 點下方圖片下載 | 點下方圖片下載 |
+| [![Build Status](https://xmikux.github.io/builds/SlimeTraditionalTranslation/SlimyTreeTaps/master/badge.svg)](https://xmikux.github.io/builds/SlimeTraditionalTranslation/SlimyTreeTaps/master) | [![Build Status](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/badge.svg)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master) |
 
 ## Discord
-您可以在Discord上找到官方SlimeFun社區!
+您可以在Discord上找到官方Slimefun社區!
 點擊下面的徵標來加入伺服器.
 
 <p align="center">
